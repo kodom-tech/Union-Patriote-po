@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Page principale -->
+  <url>
+    <loc>https://kodom-tech.github.io/Union-Patriote-po/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Page Programme -->
+  <url>
+    <loc>https://kodom-tech.github.io/Union-Patriote-po/programme.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
